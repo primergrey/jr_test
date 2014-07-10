@@ -8,7 +8,7 @@
     <body>
         <section>
             <img src="http://www.crazyabouttv.com/Images/dinosaurs.jpg">
-            <a href="http://en.wikipedia.org/wiki/Special:Random" target="_blank">Learn Something.</a>
+            <a href="http://en.wikipedia.org/wiki/Dinosaurs" target="_blank">Learn Something.</a>
         </section>
     </body>
 </html>
